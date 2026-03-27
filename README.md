@@ -8,8 +8,6 @@ This repository contains a CSS tweak for **Firefox** and **LibreWolf** that prev
 
 Ideal for users seeking a distraction-free experience or those using web apps with interactive elements near the top edge.
 
-## 🚀 How to Install
-
 ### 1. Enable Custom Stylesheets
 By default, Firefox and LibreWolf ignore custom CSS files for security reasons. To enable them:
 1. Open a new tab and go to `about:config`.
